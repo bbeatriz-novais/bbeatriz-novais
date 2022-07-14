@@ -1,6 +1,4 @@
 # Olá! Eu sou Yasmin <img alt="gatinho-gif" width="40" height="40" src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif"> 
- 
-✨veg | leitorah | artista✨
 
 📌 Iniciei meus estudos no mundo da programação como desenvolvedora front-end, desde então, o foco é a busca constante pelo aprendizado e especialização.
 ##
@@ -24,8 +22,7 @@
  
 <div>
   <a href="https://www.linkedin.com/in/bbeatriz-novais/" target="_blank"><img alt="linkedin-img" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#" target="_blank"><img alt="gmail-img" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://steamcommunity.com/profiles/76561198981914569/" target="_blank"><img alt="steam-img" target="_blank" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="mailto:yasminovaisouza@gmail.com" target="_blank"><img alt="gmail-img" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
  
  ![Snake animation](https://github.com/bbeatriz-novais/bbeatriz-novais/blob/output/github-contribution-grid-snake.svg)
